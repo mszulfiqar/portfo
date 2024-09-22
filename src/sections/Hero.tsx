@@ -50,7 +50,7 @@ export const HeroSection = () => {
     </div>
       <div className="flex flex-col md:flex-row justify-center items-center absolute top-[95%] md:top-[90%] lg:top-[86%] left-1/2 -translate-x-1/2 -translate-y-1/2 gap-4 z-50">
       <a href="#project"><button className="inline-flex items-center gap-2 border cursor-pointer border-white/15 px-6 h-12 rounded-xl"><span className="font-semibold">Explore My Work</span><Arrowdown className="size-4" /></button></a>
-        <button className="inline-flex items-center gap-2 border cursor-pointer border-white bg-white text-gray-900 h-12 px-6 rounded-xl"><span className="font-semibold">👋</span><span>Let's Connect</span></button>
+        <button className="inline-flex items-center gap-2 border cursor-pointer border-white bg-white text-gray-900 h-12 px-6 rounded-xl"><span className="font-semibold">👋</span><span>Let&apos;s Connect</span></button>
       </div>
 
       </div>
